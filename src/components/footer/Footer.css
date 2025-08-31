@@ -1,0 +1,27 @@
+
+.footer-div {
+  /* margin-top: 2rem; */
+  margin-top: -30px;
+  /* Above Previous */
+  /* Adds a separating line at the top */
+  border-top: 1px solid #e3e3e3;
+  text-align: center;
+  padding: 0;
+}
+
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+  /* Above Previous */
+  margin-top: 5px; /* Adds space above the copyright text */
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #868e96;
+}
+
+/* This targets the social media icons specifically */
+.social-media-div {
+  margin: 0 auto; /* Centers the icons container */
+}
