@@ -30,7 +30,8 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1wPKmOiIQyEo1WtExnv5NQ_DYfGrLKcSy/view?usp=drive_link",
   // Please change
-  portfolio_repository: "https://github.com/deepanshusinghpal/deepanshusinghpal.github.io",
+  portfolio_repository:
+    "https://github.com/deepanshusinghpal/deepanshusinghpal.github.io",
   githubProfile: "https://github.com/deepanshusinghpal",
 };
 
@@ -39,7 +40,6 @@ const socialMediaLinks = [
   // github: "https://github.com/deepanshusinghpal",
   // linkedin: "https://www.linkedin.com/in/deepanshu-singh-pal/",
   // gmail: "2004deepanshusingh@gmail.com",
-  // gitlab: "https://gitlab.com/username",
   // facebook: "https://www.facebook.com/deepanshu.pal.16082004",
   // twitter: "https://twitter.com/username",
   // instagram: "https://www.instagram.com/deepanshupal_2004/"
@@ -176,9 +176,8 @@ const skills = {
           style: {
             color: "#181717",
           },
-        }
+        },
       ],
-
     },
     {
       title: "Cloud Infra-Architecture",
@@ -239,7 +238,7 @@ const skills = {
             color: "#47A248",
           },
         },
-        
+
         // {
         //   skillName: "Kubernetes",
         //   fontAwesomeClassname: "simple-icons:kubernetes",
@@ -250,66 +249,66 @@ const skills = {
       ],
     },
     {
-      "title": "UI/UX Design",
-      "fileName": "DesignImg",
-      "skills": [
+      title: "UI/UX Design",
+      fileName: "DesignImg",
+      skills: [
         "⚡ Designing user-friendly and visually appealing interfaces for web applications",
         "⚡ Creating wireframes, prototypes, and mockups using Figma, Adobe XD, and Sketch",
         "⚡ Enhancing designs with Adobe Illustrator, Adobe Photoshop, and Canva",
-        "⚡ Implementing responsive UI components using Bootstrap"
+        "⚡ Implementing responsive UI components using Bootstrap",
       ],
-      "softwareSkills": [
+      softwareSkills: [
         {
-          "skillName": "Figma",
-          "fontAwesomeClassname": "simple-icons:figma",
-          "style": {
-            "color": "#F24E1E"
-          }
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
         },
         {
-          "skillName": "Adobe XD",
-          "fontAwesomeClassname": "simple-icons:adobexd",
-          "style": {
-            "color": "#FF2BC2"
-          }
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
+          },
         },
         {
-          "skillName": "Sketch",
-          "fontAwesomeClassname": "simple-icons:sketch",
-          "style": {
-            "color": "#F7B500"
-          }
+          skillName: "Sketch",
+          fontAwesomeClassname: "simple-icons:sketch",
+          style: {
+            color: "#F7B500",
+          },
         },
         {
-          "skillName": "Adobe Illustrator",
-          "fontAwesomeClassname": "simple-icons:adobeillustrator",
-          "style": {
-            "color": "#FF7C00"
-          }
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          style: {
+            color: "#FF7C00",
+          },
         },
         {
-          "skillName": "Adobe Photoshop",
-          "fontAwesomeClassname": "simple-icons:adobephotoshop",
-          "style": {
-            "color": "#31A8FF"
-          }
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "simple-icons:adobephotoshop",
+          style: {
+            color: "#31A8FF",
+          },
         },
         {
-          "skillName": "Canva",
-          "fontAwesomeClassname": "simple-icons:canva",
-          "style": {
-            "color": "#00C4CC"
-          }
+          skillName: "Canva",
+          fontAwesomeClassname: "simple-icons:canva",
+          style: {
+            color: "#00C4CC",
+          },
         },
         {
-          "skillName": "Bootstrap",
-          "fontAwesomeClassname": "simple-icons:bootstrap",
-          "style": {
-            "color": "#7952B3"
-          }
-        }
-      ]
-    }
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#7952B3",
+          },
+        },
+      ],
+    },
   ],
 };
 
@@ -336,18 +335,18 @@ const competitiveSites = {
       siteName: "GitHub",
       iconifyClassname: "simple-icons:github",
       style: {
-        color: "#181717"
+        color: "#181717",
       },
-      profileLink: "https://github.com/deepanshusinghpal"
-    }
-
+      profileLink: "https://github.com/deepanshusinghpal",
+    },
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+      title:
+        "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
@@ -366,7 +365,8 @@ const certifications = {
   certifications: [
     {
       title: "Data Structures and Performance",
-      subtitle: "- Taught by Christine Alvarado, Mia Minnes, and Leo Porter at UC San Diego",
+      subtitle:
+        "- Taught by Christine Alvarado, Mia Minnes, and Leo Porter at UC San Diego",
 
       logo_path: "ucsd_logo.png",
 
@@ -377,8 +377,8 @@ const certifications = {
     },
     {
       title: "Introduction to Financial Accounting",
-      subtitle: "- Prof. Brian J. Bushee, Wharton School, University of Pennsylvania",
-
+      subtitle:
+        "- Prof. Brian J. Bushee, Wharton School, University of Pennsylvania",
 
       logo_path: "University_of_Pennsylvania_Logo.png",
       certificate_link:
@@ -388,7 +388,8 @@ const certifications = {
     },
     {
       title: "Docker Foundations Professional Certificate",
-      subtitle: "- Shea Hanson, Head of Learning Content Strategy, LinkedIn Learning",
+      subtitle:
+        "- Shea Hanson, Head of Learning Content Strategy, LinkedIn Learning",
       logo_path: "linkedin_learning_logo.png",
       certificate_link:
         "https://www.linkedin.com/learning/certificates/9c31d36e2424d0af75c54899ddf2e499e1e92fc305ed0dbd4106c2cdc057e908",
@@ -397,7 +398,8 @@ const certifications = {
     },
     {
       title: "Introduction to Machine Learning",
-      subtitle: "- Prof. Balaraman Ravindran, NPTEL, Jan-Apr 2025 (12-week course)",
+      subtitle:
+        "- Prof. Balaraman Ravindran, NPTEL, Jan-Apr 2025 (12-week course)",
       logo_path: "nptel_logo.png",
       certificate_link:
         "https://drive.google.com/file/d/1DsunRpIXeLmSrj-NzX_sSLZ-9MTy3vme/view",
@@ -426,7 +428,8 @@ const certifications = {
       title: "Salesforce Developer - Agentblazer Champion Program",
       subtitle: "- Salesforce Virtual Internship Program",
       logo_path: "salesforce_logo.png",
-      certificate_link: "https://drive.google.com/file/d/1r_imztMEAwyUhohgSUwah5lIq-Rzjh6v/view?usp=drive_link",
+      certificate_link:
+        "https://drive.google.com/file/d/1r_imztMEAwyUhohgSUwah5lIq-Rzjh6v/view?usp=drive_link",
       alt_name: "Salesforce",
       color_code: "#00A1E0",
     },
@@ -491,8 +494,7 @@ const experience = {
           logo_path: "temp.jpg",
           duration: "",
           location: "",
-          description:
-            "",
+          description: "",
           color: "#000000",
         },
       ],
@@ -524,18 +526,13 @@ const experience = {
           logo_path: "temp.jpg",
           duration: "",
           location: "",
-          description:
-            "",
+          description: "",
           color: "#4285F4",
         },
       ],
     },
   ],
 };
-
-
-
-
 
 // Projects Page
 const projectsHeader = {
@@ -552,8 +549,6 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-
-
 const publications = {
   data: [
     {
@@ -562,7 +557,8 @@ const publications = {
       createdAt: "Working",
       // createdAt: "2023-07-02T00:00:00Z",
       technologies: ["React", "Node.js", "Express", "MongoDB", "AWS"],
-      description: "A web and mobile platform for renting agricultural machinery, allowing farmers to access and lease equipment efficiently.",
+      description:
+        "A web and mobile platform for renting agricultural machinery, allowing farmers to access and lease equipment efficiently.",
       url: "https://github.com/Infiniper/Krishi-Rental-Services",
     },
     {
@@ -570,7 +566,8 @@ const publications = {
       name: "Personal Portfolio Website",
       // createdAt: "2023-09-19T00:00:00Z",
       createdAt: "Ongoing",
-      description: "A modern, responsive portfolio website showcasing my skills, projects, and achievements. Built with React and Tailwind CSS.",
+      description:
+        "A modern, responsive portfolio website showcasing my skills, projects, and achievements. Built with React and Tailwind CSS.",
       url: "https://github.com/deepanshusinghpal/Portfolio-Website",
     },
     {
@@ -578,12 +575,12 @@ const publications = {
       name: "Chess Game in C++",
       // createdAt: "2023-10-12T00:00:00Z",
       createdAt: "Ongoing",
-      description: "A simple chess game developed in C++, featuring various functionalities such as castling, check, checkmate, pawn promotion, moving of pieces, and fifty-move draw.",
+      description:
+        "A simple chess game developed in C++, featuring various functionalities such as castling, check, checkmate, pawn promotion, moving of pieces, and fifty-move draw.",
       url: "https://github.com/deepanshusinghpal/Chess-Game",
     },
   ],
 };
-
 
 // Contact Page
 const contactPageData = {
@@ -595,8 +592,7 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "",
+    subtitle: "",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
@@ -616,38 +612,6 @@ const contactPageData = {
     subtitle: "",
   },
 };
-
-
-// const contactPageData = {
-//   contactSection: {
-//     title: "Contact Me",
-//     profile_image_path: "animated_deepanshu.png",
-//     description:
-//       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
-//   },
-//   blogSection: {
-//     title: "Blogs",
-//     subtitle:
-//       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-//     link: "https://blogs.ashutoshhathidara.com/",
-//     avatar_image_path: "blogs_image.svg",
-//   },
-//   addressSection: {
-//     title: "Address",
-//     subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-//     locality: "San Jose",
-//     country: "USA",
-//     region: "California",
-//     postalCode: "95129",
-//     streetAddress: "Saratoga Avenue",
-//     avatar_image_path: "address_image.svg",
-//     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
-//   },
-//   phoneSection: {
-//     title: "",
-//     subtitle: "",
-//   },
-// };
 
 export {
   settings,
